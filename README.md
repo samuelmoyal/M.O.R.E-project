@@ -1,4 +1,4 @@
-# Application of the Doppler Effect to the Diagnosis of Stenoses
+# M.O.R.E Project
 
 This repository contains my M.O.R.E report, the code of the convolutional neural network for spectra classification is available soon.
 
